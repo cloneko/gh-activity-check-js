@@ -1,0 +1,2 @@
+- feed-read
+- aws-sdk
