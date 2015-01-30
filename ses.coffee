@@ -3,7 +3,7 @@ aws.config.httpOptions['timeout'] = 1000
 aws.config.loadFromPath './auth.json'
 ses = new aws.SES
 
-to = ['cloneko@gmail.com']
+to = ['yonashiro@std.it-college.ac.jp']
 from = 'cloneko@gmail.com'
 subject = '31days'
 
